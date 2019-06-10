@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033735019806",
+    "firebase_url": "https://gred-4fbff.firebaseio.com",
+    "project_id": "gred-4fbff",
+    "storage_bucket": "gred-4fbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033735019806:android:725ba0064186af94",
+        "android_client_info": {
+          "package_name": "com.gred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033735019806-k5ej46899nt422iq140t3jsif8tmr5hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gred",
+            "certificate_hash": "2899a9c690661d3356b0c460e2c0de63a3787920"
+          }
+        },
+        {
+          "client_id": "1033735019806-nko6uhc2bf3fpi18ah478blqipk9o71e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQslzavEnHwa2aDmyEomkmYn7AUR6kCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033735019806-nko6uhc2bf3fpi18ah478blqipk9o71e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

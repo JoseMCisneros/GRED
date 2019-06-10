@@ -1,0 +1,46 @@
+Configure project :app
+google-services plugin could not detect any version for com.google.android.gms or com.google.firebase, default version: 11.4.2 will be used.
+please apply google-services plugin at the bottom of the build file.
+Could not find google-services.json while looking in [src/nullnull/debug, src/debug/nullnull, src/nullnull, src/debug, src/nullnullDebug]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Could not find google-services.json while looking in [src/nullnull/release, src/release/nullnull, src/nullnull, src/release, src/nullnullRelease]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+
+> Task :app:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\JoseCisneros\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 38:5A:10:E3:40:63:63:8B:07:7F:D0:20:D0:92:D4:3D
+SHA1: 28:99:A9:C6:90:66:1D:33:56:B0:C4:60:E2:C0:DE:63:A3:78:79:20
+SHA-256: 64:35:E6:2A:3C:C0:77:7E:2C:5C:B5:FA:93:7B:40:94:96:93:69:26:2D:2D:43:EA:CF:14:D1:AD:3A:19:81:3D
+Valid until: domingo 28 de marzo de 2049
+----------
+Variant: release
+Config: none
+----------
+Variant: debug
+Config: debug
+Store: C:\Users\JoseCisneros\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 38:5A:10:E3:40:63:63:8B:07:7F:D0:20:D0:92:D4:3D
+SHA1: 28:99:A9:C6:90:66:1D:33:56:B0:C4:60:E2:C0:DE:63:A3:78:79:20
+SHA-256: 64:35:E6:2A:3C:C0:77:7E:2C:5C:B5:FA:93:7B:40:94:96:93:69:26:2D:2D:43:EA:CF:14:D1:AD:3A:19:81:3D
+Valid until: domingo 28 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\JoseCisneros\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 38:5A:10:E3:40:63:63:8B:07:7F:D0:20:D0:92:D4:3D
+SHA1: 28:99:A9:C6:90:66:1D:33:56:B0:C4:60:E2:C0:DE:63:A3:78:79:20
+SHA-256: 64:35:E6:2A:3C:C0:77:7E:2C:5C:B5:FA:93:7B:40:94:96:93:69:26:2D:2D:43:EA:CF:14:D1:AD:3A:19:81:3D
+Valid until: domingo 28 de marzo de 2049
+----------
+
+BUILD SUCCESSFUL in 14s
+1 actionable task: 1 executed
+07:51:00 AM: Task execution finished 'signingReport'.
